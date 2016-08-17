@@ -1,0 +1,14 @@
+layout_spectrum: 0.49292956781573594
+typography_spectrum: 0.4518815216142684
+color:
+  brandStrength: 0.4198523887898773
+  lightness: 0.9401408333797008
+  saturation: 0.8355617995839566
+  rhythmicContrast: 0.33387645008042455
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: STUDIOMINT
